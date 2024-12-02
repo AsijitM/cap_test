@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Car"/>
+	<classpathentry kind="src" path="PointAndLine"/>
+	<classpathentry kind="src" path="Movie"/>
+	<classpathentry kind="src" path="RealEstate"/>
+	<classpathentry kind="src" path="calculator"/>
+	<classpathentry kind="src" path="LibraryStructure"/>
+	<classpathentry kind="src" path="Employee"/>
+	<classpathentry kind="src" path="Nutrition"/>
+	<classpathentry kind="src" path="Animal"/>
+	<classpathentry kind="src" path="Encrypter"/>
+	<classpathentry kind="src" path="Edge"/>
+	<classpathentry kind="src" path="GroceryStore"/>
+	<classpathentry kind="src" path="CarBuilding"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
